@@ -1,9 +1,9 @@
 [project]
-name = ""
-version = ""
-description = ""
+name = "book_watch"
+version = "0.1"
+description = "Basic Python application for monitoring book availability on knihobot.cz."
 authors = [
-    {name = "Martin Barton", email = "bartonm@btlnet.com"},
+    {name = "Martin Barton", email = "ma.barton@seznam.cz"},
 ]
 dependencies = [
     "requests>=2.31.0",
@@ -12,5 +12,5 @@ dependencies = [
 ]
 requires-python = ">=3.10"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "Apache-2.0 license"}
 
