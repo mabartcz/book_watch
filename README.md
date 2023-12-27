@@ -9,8 +9,7 @@ Keep a close eye on your favorite book with this simple Python script designed t
   * [Configuration](#configuration)
   * [Deployment](#deployment)
 * [License](#license)
-* [Acknowledgements](#acknowledgements)
-* [Made with ❤️](#made-with-❤️)
+* [Made with love](#made-with-❤️)
 
 ## Features
 
@@ -48,6 +47,6 @@ This project is licensed under the Apache License 2.0.
 
 Please be cautious when using this script. The default time check interval is 60-120 seconds. Avoid lowering intervals to prevent spamming Knihobot.cz.
 
-## Made with ❤️
+## Made with love
 
-Crafted for book lovers.
+Crafted for book lovers ❤️
