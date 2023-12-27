@@ -17,4 +17,4 @@ RUN pdm install
 
 COPY . .
 
-CMD ["pdm", "run", "python", "src/book/main.py"]
+CMD ["pdm", "run", "python", "src/book_watch/main.py"]
