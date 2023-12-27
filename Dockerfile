@@ -10,11 +10,8 @@ WORKDIR /project
 
 RUN pip install pdm
 
-COPY pyproject.toml ./
-COPY pdm.lock ./
+COPY . .
 
 RUN pdm install
 
-COPY . .
-
-CMD ["pdm", "run", "python", "src/book/main.py"]
+CMD ["pdm", "run", "python", "src/book_watch/main.py"]
