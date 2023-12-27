@@ -9,7 +9,7 @@ Keep a close eye on your favorite book with this simple Python script designed t
   * [Configuration](#configuration)
   * [Deployment](#deployment)
 * [License](#license)
-* [Risks](#use-at-your-own-risk)
+* [Risk](#use-at-your-own-risk)
 * [Made with love](#made-with-love)
 
 ## Features
