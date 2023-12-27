@@ -1,16 +1,16 @@
 # Book Watch
 
-Keep a close eye on your favorite book with this simple Python script designed to monitor the availability of specific books on Knihobot.cz. Receive notifications effortlessly thanks to [ntfy.sh](https://ntfy.sh/).
+Keep a close eye on your favorite book with this simple Python script designed to monitor the availability of specific book on Knihobot.cz. Receive notifications effortlessly thanks to [ntfy.sh](https://ntfy.sh/).
 
 ## Table of Contents
 
-* [Features]()
-* [How to Use]()
-  * [Configuration]()
-  * [Deployment]()
-* [License]()
-* [Acknowledgements]()
-* [Made with ❤️]()
+* [Features](#features)
+* [How to Use](#how-to-use)
+  * [Configuration](#configuration)
+  * [Deployment](#deployment)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
+* [Made with ❤️](#made-with-❤️)
 
 ## Features
 
@@ -35,8 +35,7 @@ To tailor the script to your preferences, utilize the `book_config` file. Specif
 2. Run the Docker container:
 
    ```
-   `docker run -d --name book-watch-container book-watch`
-
+   docker run -d --name book-watch-container book-watch
    ```
 
    Adjust the container name (`book-watch-container`) as desired.
