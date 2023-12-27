@@ -1,0 +1,16 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Martin Barton", email = "bartonm@btlnet.com"},
+]
+dependencies = [
+    "requests>=2.31.0",
+    "BeautifulSoup4>=4.12.2",
+    "loguru>=0.7.2",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
